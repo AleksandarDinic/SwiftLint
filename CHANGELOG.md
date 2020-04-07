@@ -10,7 +10,9 @@
 
 #### Enhancements
 
-* None.
+* Add `ibinspectable_in_extension` rule to lint against `@IBInspectable`
+  properties in `extensions`  
+  [Keith Smiley](https://github.com/keith)
 
 #### Bug Fixes
 
